@@ -1,7 +1,7 @@
 
-# Neural Network Training and Evaluation
+# Model Training and Evaluation
 
-This repository contains code for training, evaluating, and running inference on a neural network designed for classification tasks. The implementation supports various optimizers, learning rates, and configurations.
+This repository contains code for training, evaluating, and running inference on a PerVFI and ASVFI.
 
 ## File Structure
 
